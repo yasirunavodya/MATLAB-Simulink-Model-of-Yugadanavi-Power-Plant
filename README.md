@@ -17,10 +17,6 @@ This project involves developing a **MATLAB Simulink model** of the **full elect
 🛠 **MATLAB Simulink** – System modeling and simulation  
 🛠 **Power System Analysis** – Black start, stability, and performance evaluation  
 
-## How to Use  
-1. Open **MATLAB Simulink** and load the provided `.slx` file.  
-2. Run the simulation to analyze power flow and system behavior.  
-3. Modify system parameters to test different black start scenarios.  
 
 ## Future Improvements  
 🔹 Incorporate **renewable energy sources** into the simulation.  
@@ -28,10 +24,7 @@ This project involves developing a **MATLAB Simulink model** of the **full elect
 🔹 Validate results with **real-world operational data**.  
 
 
-## License  
-📜 This project is licensed under the **MIT License**.  
 
----
 
 📩 For any inquiries or collaborations, feel free to connect!  
 
